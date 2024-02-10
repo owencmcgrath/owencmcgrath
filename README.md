@@ -13,3 +13,6 @@ I am a Computer Science and Business Analytics sophomore at Creighton University
 Languages
 
 ![C badge](https://github.com/bearwithtea/bearwithtea/assets/132114816/ab310f96-0169-4d2d-8c72-04d6c356d2de)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg" />
+          
