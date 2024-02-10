@@ -1,4 +1,4 @@
-### Hi there! I am <code>bearwithtea</code>
+### Hi there! I am <code>Owen McGrath</code>
 
 <!--
 **bearwithtea/bearwithtea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
