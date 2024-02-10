@@ -54,7 +54,11 @@ I am a Computer Science and Business Analytics sophomore at Creighton University
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height = "50" width = "50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height = "50" width = "50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height = "50" width = "50" />
-          
+
+[![Owen's Stats](https://github-readme-stats.vercel.app/apibearwithtea=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Owen's Contributions](https://github.pumbas.net/api/contributions/bearwithtea)
+<img src="https://github.pumbas.net/api/contributions/bearwithtea" alt="Owen's Contributions"/>          
           
           
           
