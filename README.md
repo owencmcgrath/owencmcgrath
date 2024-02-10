@@ -4,5 +4,5 @@ I am a Computer Science and Business Analytics sophomore at Creighton University
 <ul>
 <li> 🤝 Connect with me on <a href="https://www.linkedin.com/in/owen-mcgrath-ocm/" rel="nofollow">LinkedIn</a></li>
 <li> 🌐 View my website at bearwithtea.github.io </li>
-<li> 📩 Email me at <a href="mailto:owen.c.mcgrathicloud.com"></a></li>
+<li> 📩 Email me at <a href="mailto:owen.c.mcgrathicloud.com"</a></li>
 </ul>
