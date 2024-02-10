@@ -1,4 +1,4 @@
-### Hi there! I am @bearwithtea
+### Hi there! I am bearwithtea
 
 <!--
 **bearwithtea/bearwithtea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
