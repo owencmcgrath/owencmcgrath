@@ -14,5 +14,5 @@ Languages
 
 ![C badge](https://github.com/bearwithtea/bearwithtea/assets/132114816/ab310f96-0169-4d2d-8c72-04d6c356d2de)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg" height="52" width = "28" />
           
