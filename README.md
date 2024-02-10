@@ -59,6 +59,8 @@ I am a Computer Science and Business Analytics sophomore at Creighton University
 <div class="container">
 
 <img src="https://ghchart.rshah.org/bearwithtea" alt="2016rshah's Github chart" />
+
+<p></p>
           
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearwithtea&show_icons=true&rank_icon=github)
 
