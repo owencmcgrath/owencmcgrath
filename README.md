@@ -8,7 +8,7 @@ I am a Computer Science and Business Analytics sophomore at Creighton University
 <li> 📩 Email me at <a href="mailto:owen.c.mcgrathicloud.com"<code>owen.c.mcgrath@icloud.com</code></a></li>
 </ul>
 
-### Here are some of my favorite languages and frameworks!
+### Here are some of my favorite languages, frameworks, and tools!
 
 #### Languages & Tools
 
