@@ -54,14 +54,3 @@ I am a Computer Science and Business Analytics sophomore at Creighton University
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height = "50" width = "50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height = "50" width = "50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height = "50" width = "50" />
-
-##### Stats
-<div class="container">
-
-<img src="https://ghchart.rshah.org/bearwithtea" alt="2016rshah's Github chart" />
-
-<p></p>
-          
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearwithtea&show_icons=true&rank_icon=github)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bearwithtea)](https://github.com/anuraghazra/github-readme-stats)
