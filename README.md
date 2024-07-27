@@ -1,7 +1,7 @@
 ## Hi there! I'm <code>Owen McGrath</code> 👨‍💻
 <p></p>
 HWLLO!>
-I am a junior pursuing Computer Science and Business Analytics at Creighton University in Omaha, Nebraska. I am passionate about personal and corporate efficiency and I hope to work for a team that increases productivity and simplifies workflow. My aspirations include software engineering and a stint in professorship later on in life.
+I am a junior pursuing Computer Science and Business Analytics at Creighton University in Omaha, Nebraska. I am passionate about personal and corporate efficiency and I hope to work for a team that increases productivity and simplifies workflow. My career aspirations include software engineering and a stint in professorship later on in life.
 <p></p>
 <ul>
 <li> 🤝 Connect with me on <a href="https://www.linkedin.com/in/owen-mcgrath-ocm/" rel="nofollow">LinkedIn</a></li>
