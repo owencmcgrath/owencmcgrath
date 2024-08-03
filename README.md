@@ -39,7 +39,7 @@ I am a junior pursuing Computer Science and Business Analytics at Creighton Univ
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height = "50" width = "50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  height = "50" width = "50" />
           
-          
+          asdf
 
 ###### Design & Development
 
