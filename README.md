@@ -1,5 +1,4 @@
-can you see this can you please unban me :( why github why ## Hi there! I'm <code>Owen McGrath</code> 👨‍💻
-me sad
+## Hi there! I'm <code>Owen McGrath</code> 👨‍💻
 
 <p></p>
 I am a junior pursuing Computer Science and Business Analytics at Creighton University in Omaha, Nebraska. I am passionate about personal and corporate efficiency and I hope to work for a team that increases productivity and simplifies workflow. My career aspirations include software engineering and a stint in professorship later on in life.
@@ -40,8 +39,6 @@ I am a junior pursuing Computer Science and Business Analytics at Creighton Univ
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height = "50" width = "50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height = "50" width = "50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  height = "50" width = "50" />
-          
-          asdf
 
 ###### Design & Development
 
