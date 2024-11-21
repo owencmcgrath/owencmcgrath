@@ -57,9 +57,8 @@
   </strong>
   with, as well as what I am
   <strong>
-    learning
+    learning.
   </strong>
-  .
 </p>
 <br>
 <p align="center">
