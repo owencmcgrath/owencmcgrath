@@ -2,7 +2,7 @@
   Hello, my name is
   <br>
   <strong>
-    Owen McGrath
+    <a href = "https://owencmcgrath.com"> Owen McGrath </a>
   </strong>
 </p>
 <p align="center">
