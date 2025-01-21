@@ -1,10 +1,8 @@
 <p align="center">
   Hello, my name is
-  <br>
   <strong>
     <a href = "https://owencmcgrath.com"> Owen McGrath </a>
   </strong>
-  <hr>
 </p>
 <p align="center">
   I am a junior studying
@@ -43,7 +41,6 @@
     learning.
   </strong>
 </p>
-<br>
 <p align="center">
   <strong>
     Highly Skilled
