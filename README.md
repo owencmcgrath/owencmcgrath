@@ -24,8 +24,9 @@
     </a>
   </strong>
   in Omaha, Nebraska.
+</p>
   <br>
-  I am passionate about the intersection between computer science, physics, math, and business.
+  <p align = "center">I am passionate about the intersection between computer science, physics, math, and business. </p>
 <p align="center">
   <strong>
     Skills
