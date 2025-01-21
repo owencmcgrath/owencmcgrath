@@ -4,6 +4,7 @@
   <strong>
     <a href = "https://owencmcgrath.com"> Owen McGrath </a>
   </strong>
+  <hr>
 </p>
 <p align="center">
   I am a junior studying
@@ -27,25 +28,7 @@
   in Omaha, Nebraska.
   <br>
   <br>
-  I am passionate about
-  <strong>
-    personal and corporate efficiency
-  </strong>
-  and I hope to work for a team that increases
-  <strong>
-    productivity
-  </strong>
-  and simplifies workflow. My career aspirations include
-  <strong>
-    software engineering
-  </strong>
-  and a stint in
-  <strong>
-    professorship
-  </strong>
-  later on in life.
-</p>
-<hr>
+  I am passionate about the intersection between computer science, physics, math, and business.
 <p align="center">
   <strong>
     Skills
