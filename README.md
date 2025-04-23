@@ -1,7 +1,9 @@
 <p align="center">
   Hello, my name is
   <strong>
-    <a href = "https://owencmcgrath.com"> Owen McGrath </a>
+    <a href="https://owencmcgrath.com">
+      Owen McGrath
+    </a>
   </strong>
 </p>
 <p align="center">
@@ -25,8 +27,11 @@
   </strong>
   in Omaha, Nebraska.
 </p>
-  <br>
-  <p align = "center">I am passionate about the intersection between computer science, physics, math, and business. </p>
+<br>
+<p align="center">
+  I am passionate about the intersection between computer science, physics,
+  math, and business.
+</p>
 <p align="center">
   <strong>
     Skills
@@ -88,7 +93,8 @@
   Languages, tools, and frameworks that interest me:
   <br>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width ="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+  width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
   width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
@@ -114,7 +120,6 @@
   width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
   width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
   width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
