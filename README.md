@@ -47,7 +47,7 @@
     Highly Skilled
   </strong>
   <br>
-  My favorite languages that I am usually writing with.
+  My favorite languages that I am usually writing with:
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
@@ -66,7 +66,7 @@
     Skilled
   </strong>
   <br>
-  Languages and frameworks that I feel confident in.
+  Languages and frameworks that I feel confident in:
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -85,7 +85,7 @@
     Learning
   </strong>
   <br>
-  Languages, tools, and frameworks that interest me.
+  Languages, tools, and frameworks that interest me:
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width ="50" height="50"/>
@@ -107,7 +107,7 @@
     General
   </strong>
   <br>
-  Commonplace items that I am competent in.
+  Commonplace items that I am competent in:
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"
