@@ -7,7 +7,7 @@
   </strong>
 </p>
 <p align="center">
-  I am a junior studying
+  I am a senior studying
   <strong>
     <a href="https://www.creighton.edu/academics/programs/computer-science">
       Computer Science
