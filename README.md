@@ -32,11 +32,8 @@
    I am passionate about the intersection between software, data, and business.
 </p>
 <p align="center">
-   <strong>
-   Skills
-   </strong>
    <br>
-   Here of some of the skills that I feel
+   Here of some of the technologies that I feel
    <strong>
    most confident
    </strong>
