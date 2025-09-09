@@ -31,25 +31,21 @@
 <p align="center">
 	I am passionate about the intersection between
 	<b>
-		software
+		software, data, and business.
 	</b>
-	,
-	<b>
-		data
-	</b>
-	, and
-	<b>
-		business
-	</b>
-	.
 </p>
 <hr>
 <p align="center">
-	<strong>
-		Highly Skilled
-	</strong>
+	<b>
+		Skills
+	</b>
 	<br>
-	My favorite languages that I am usually writing with.
+	<br>
+	My
+	<b>
+		favorite
+	</b>
+	languages that I am usually writing with.
 	<br>
 	<br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
@@ -64,11 +60,12 @@
 	width="50" height="50" />
 </p>
 <p align="center">
-	<strong>
-		Skilled
-	</strong>
 	<br>
-	Languages and frameworks that I feel confident in.
+	Languages and frameworks that I feel
+	<b>
+		confident
+	</b>
+	in.
 	<br>
 	<br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -83,11 +80,12 @@
 	width="50" height="50" />
 </p>
 <p align="center">
-	<strong>
-		Learning
-	</strong>
 	<br>
-	Languages, tools, and frameworks that interest me.
+	Languages, tools, and frameworks that
+	<b>
+		interest
+	</b>
+	me.
 	<br>
 	<br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -104,11 +102,12 @@
 	width="50" height="50" />
 </p>
 <p align="center">
-	<strong>
-		General
-	</strong>
 	<br>
-	Commonplace items that I am competent in.
+	Commonplace items that I am
+	<b>
+		competent
+	</b>
+	in.
 	<br>
 	<br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"
