@@ -35,12 +35,10 @@
 	</b>
 </p>
 <hr>
+<h3 align="center">
+	Skills
+</h3>
 <p align="center">
-	<b>
-		Skills
-	</b>
-	<br>
-	<br>
 	My
 	<b>
 		favorite
