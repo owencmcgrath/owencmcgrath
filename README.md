@@ -95,7 +95,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg"
 	width="50" height="50" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
-	width="50" height="50" />
+	width="40" height="45" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
 	width="50" height="50" />
 </p>
