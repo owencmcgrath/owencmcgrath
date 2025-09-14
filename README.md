@@ -59,26 +59,6 @@
 </p>
 <p align="center">
 	<br>
-	Languages and frameworks that I feel
-	<b>
-		confident
-	</b>
-	in.
-	<br>
-	<br>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-	width="50" height="50" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-	width="50" height="50" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-	width="50" height="50" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-	width="50" height="50" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-	width="50" height="50" />
-</p>
-<p align="center">
-	<br>
 	Languages, tools, and frameworks that
 	<b>
 		interest
