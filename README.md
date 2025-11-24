@@ -30,26 +30,18 @@
     Skills
 </h3>
 <p align="center">
-    My
-    <b>
-        favorite
-    </b>
-    languages that I am usually writing with.
+    What I am usually writing with.
     <br />
     <br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" />
 </p>
 <p align="center">
     <br />
-    Languages, tools, and frameworks that
-    <b>
-        interest
-    </b>
-    me.
+    Languages, tools, and frameworks that interest me.
     <br />
     <br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" />
@@ -61,11 +53,7 @@
 </p>
 <p align="center">
     <br />
-    Commonplace items that I am
-    <b>
-        competent
-    </b>
-    in.
+    Commonplace items that I am competent in.
     <br />
     <br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50" height="50" />
